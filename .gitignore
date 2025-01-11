@@ -1,0 +1,9 @@
+# Python
+*.egg-info
+__pycache__
+.pytest_cache
+.coverage
+
+# Environment
+.venv
+.vscode
