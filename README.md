@@ -1,4 +1,4 @@
-# Protobuf to Dictionary _(pb2dict)_
+# 🪛 Protobuf to Dictionary _(pb2dict)_
 
 <p align="center">
 
